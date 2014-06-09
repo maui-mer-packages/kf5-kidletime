@@ -9,7 +9,7 @@ Name:       kf5-kidletime
 # << macros
 
 Summary:    KDE Frameworks 5 Tier 1 integration module for idle time detection
-Version:    4.99.0
+Version:    4.100.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
