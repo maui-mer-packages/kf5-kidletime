@@ -7,7 +7,6 @@ Summary      : KDE Frameworks 5 Tier 1 integration module for idle time detectio
 Description  : |
   KDE Frameworks 5 Tier 1 integration module for idle time detection.
 URL          : http://www.kde.org
-SetupOptions : -q -n %{name}-%{version}/upstream
 
 Sources:
     - "%{name}-%{version}.tar.xz"
